@@ -1,0 +1,6 @@
+D:\_repo\hackerrank\hackerrank\Hackerrank\bin\Debug\Hackerrank.exe.config
+D:\_repo\hackerrank\hackerrank\Hackerrank\bin\Debug\Hackerrank.exe
+D:\_repo\hackerrank\hackerrank\Hackerrank\bin\Debug\Hackerrank.pdb
+D:\_repo\hackerrank\hackerrank\Hackerrank\obj\Debug\Hackerrank.csprojResolveAssemblyReference.cache
+D:\_repo\hackerrank\hackerrank\Hackerrank\obj\Debug\Hackerrank.exe
+D:\_repo\hackerrank\hackerrank\Hackerrank\obj\Debug\Hackerrank.pdb
